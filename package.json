@@ -1,0 +1,21 @@
+{
+  "name": "nodes-crash-course-codestarc",
+  "version": "1.0.0",
+  "description": "nodejs crash course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-01/nodes-crash-course-codestarc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-01/nodes-crash-course-codestarc/issues"
+  },
+  "homepage": "https://github.com/Joseph-01/nodes-crash-course-codestarc#readme"
+}
